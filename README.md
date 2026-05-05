@@ -1,4 +1,3 @@
-# Projeto_Estruturas_Lineares
 Desafio 1: Sistema de Votação para Representante
 1. Qual problema o programa resolve:
 O programa automatiza o processo de votação para representante de classe. Ele permite que os alunos votem repetidamente em três candidatos válidos (Ana, Bruno ou Carlos), valida as entradas para evitar votos nulos por erro de digitação, e ao final da votação (quando o usuário digita "fim"), realiza a apuração contabilizando os votos, declarando o vencedor ou indicando se houve empate.
